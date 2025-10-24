@@ -265,7 +265,7 @@
       "name": "SKYBET88",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
-      "offers": { "@type": "Offer", "price": "1000", "priceCurrency": "IDR" },
+      "offers": { "@type": "Offer", "price": "10000", "priceCurrency": "IDR" },
       "aggregateRating": { "@type": "AggregateRating", "ratingValue": 5, "ratingCount": 12796 }
     }
   ]
